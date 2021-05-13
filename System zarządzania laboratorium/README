@@ -1,1 +1,7 @@
-Projekt interfejsu webowej aplikacji, która pozwala na zarządzanie laboratorium. 
+Projekt interfejsu webowej aplikacji, która pozwala na zarządzanie laboratorium.
+Interfejsy przedstawiają stronę służącą przeglądaniu użytkowników w celu podjęcia jakiejś akcji (poprzez naciśnięcie "Modyfikuj"),
+stronę w której Dyrektor może modyfikować utworzonego wcześniej użytkownika,
+stronę pozwalającą na przeglądanie aktualności
+oraz stronę pozwalającą na dodanie nowego wpisu w aktualnościach.
+
+Interfejsy zostały przeze mnie zaprojektowane na potrzeby projektu na Politechnice Białostockiej.
